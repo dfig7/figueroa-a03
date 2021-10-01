@@ -4,13 +4,19 @@
  */
 
 public class Solution25 {
-    //create a method to ask user for password
-
     //create method to see if string has letters
     public static boolean lettersCheck(String a){
         int len = a.length();
         char[] charStringA = a.toCharArray();
         if(a.)
+    }
+    //create method to see if string has numbers
+    public static boolean numbersCheck(String a){
+
+    }
+    //create method to see if string has special characters
+    public static boolean specialCheck(String a){
+
     }
     //create a method that validates the password
     public static int passwordValidator(String a) {
