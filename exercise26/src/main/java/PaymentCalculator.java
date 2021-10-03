@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 /*
@@ -11,15 +9,29 @@ public class PaymentCalculator {
     private static final Scanner input = new Scanner(System.in);
 
     //Make method that asks for the balance <getBalance>
+    private double getBalance(){
+        System.out.printf("What is your balance? ");
+        return input.nextDouble();
+    }
 
-    //Make method that asks for the APR on the card as a percent <getAPR>
-
-    //Make method that asks for the monthly payment <getMonthlyPayments
-
+    //Make method that asks for the APR on the card as a percent
+    private double getCardAPR(){
+        System.out.printf("What is the APR on the card (as a percent)? ");
+        return input.nextDouble();
+    }
+    //Make method that asks for the monthly payment
+    private double getMonthlyPayment(){
+        System.out.printf("What is the monthly payment you can make? ");
+        return input.nextDouble();
+    }
     //Make public method <calculateMonthsUntilPaidOff> --> has no parameters and returns the number of months
-    //divide apr by 100 to turn into a decimal
     //n = -(1/30) * log(1 + b/p * (1 - (1 + i)^30)) / log(1 + i)
-    //make sure to round numbers up by the cent
-
+    public int calculateMonthsUntilPaidOff(){
+        double b = getBalance();
+        double apr = getCardAPR()/100/365;
+        double mp = getMonthlyPayment();
+        return (int)Math.ceil(-(1.0/30) * Math.log(1 + b/mp * (1 - Math.pow(1 + apr, 30))) / Math.log(1 + apr));
+    }
 }
+
 

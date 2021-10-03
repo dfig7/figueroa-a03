@@ -14,6 +14,7 @@ public class Solution26 {
         //use payment calculator class
         PaymentCalculator x = new PaymentCalculator();
         //print the number of months in a souf rom the .calculateMonthsUntilPaidOff
-
+        int numMonths = x.calculateMonthsUntilPaidOff();
+        System.out.printf("It will take you %d months to pay off this card.", numMonths);
     }
 }

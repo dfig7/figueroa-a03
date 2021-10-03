@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92774ceb-9555-458b-9fe0-56e4e2152fcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../exercise26/src/main/java/PaymentCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise26/src/main/java/Solution26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise26/src/main/java/Solution25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise26/src/main/java/PaymentCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/src/main/java/PaymentCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise26/src/main/java/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/src/main/java/Solution26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
