@@ -33,23 +33,27 @@ public class Solution25 {
         //create flag for each to see if string has letters, numbers, special characters, and at least eight characters
         int l1 = a.length();
         int fEightCharacters = 0;
+        boolean flagNumber = numbersCheck(a);
+        boolean flagLetters = lettersCheck(a);
+        boolean flagSpecial = specialCheck(a);
+
         if(l1>=8)
             fEightCharacters = 1;
 
         //Very Strong password has letters, numbers, special characters, and is at least eight characters
-        if(numbersCheck(a) && lettersCheck(a) && specialCheck(a) && fEightCharacters==1){
+        if(flagNumber && flagLetters && flagSpecial && fEightCharacters==1){
             return 4;
         }
         //Strong password has letters, at least one number, and is at least eight characters
-        else if(numbersCheck(a) && lettersCheck(a) && fEightCharacters==1){
+        else if(flagNumber && flagLetters && fEightCharacters==1){
             return 3;
         }
         //Weak password has only letters and is fewer than eight characters
-        else if(lettersCheck(a) && fEightCharacters==1){
+        else if(flagNumber && fEightCharacters==1){
             return 2;
         }
         // A very weak password has only numbers and is fewer than eight characters
-        else if(numbersCheck(a) && fEightCharacters==0) {
+        else if(flagSpecial && fEightCharacters==0) {
             return 1;
         }
         //if none meet the rules, password is unknown strength
