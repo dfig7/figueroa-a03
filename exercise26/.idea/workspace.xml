@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826c0122-7479-42a1-b25a-e70a5941b567" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../execise28/src/main/java/Solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/../execise28/src/main/java/Solution28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../execise28/src/test/java/Solution28Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../execise28/src/test/java/Solution28Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise29/src/main/java/Solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
