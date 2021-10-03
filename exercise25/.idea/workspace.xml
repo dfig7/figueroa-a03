@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92774ceb-9555-458b-9fe0-56e4e2152fcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
