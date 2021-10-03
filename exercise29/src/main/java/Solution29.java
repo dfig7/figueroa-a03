@@ -28,7 +28,7 @@ public class Solution29 {
                 f = false;
             }
             //if not
-             catch(NumberFormatException | ArithmeticException e){
+             catch(NumberFormatException | ArithmeticException a){
                 //catch number and arithmetic exceptions
                  System.out.printf("Sorry. That's not a valid input.");
             }
