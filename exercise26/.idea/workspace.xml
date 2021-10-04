@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826c0122-7479-42a1-b25a-e70a5941b567" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise25/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exercise25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise25/src/main/java/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/src/main/java/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise29/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise29/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise29/src/main/java/Solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise29/src/main/java/Solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,5 +167,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

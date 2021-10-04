@@ -9,21 +9,21 @@ public class Solution25 {
     private static final Scanner input = new Scanner(System.in);
     //create method to see if string has letters
     public static boolean lettersCheck(String a){
-        if( a.matches("(?=.*[a-z]).*") ||  a.matches("(?=.*[A-Z]).*") )
+        if( a.matches("[a-z]") ||  a.matches("[A-Z]") )
             return true;
         else
             return false;
     }
     //create method to see if string has numbers
     public static boolean numbersCheck(String a){
-        if( a.matches("(?=.*[0-9]).*") )
+        if( a.matches("[0-9]") )
             return true;
         else
             return false;
     }
     //create method to see if string has special characters
     public static boolean specialCheck(String a){
-        if( a.matches("(?=.*[~!@#$%^&*()_-]).*") )
+        if( a.matches("[~!@#$%^&*()_-]"))
             return true;
         else
             return false;

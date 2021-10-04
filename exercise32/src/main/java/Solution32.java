@@ -38,7 +38,7 @@ public class Solution32 {
     //createRandomNumber method
     public static int randomNumber(int a) {
         //create a random number depending on difficulty chosen
-        int num = (int)(Math.floor(Math.random() * (a + 1) + 0));
+        int num = (int)(Math.random() * (a + 1+ 1) + 0);
         return num;
     }
 
@@ -87,15 +87,16 @@ public class Solution32 {
         System.out.printf("Let's play Guess the Number!\n");
         boolean flag = true;
         //do
-        do {
+        while(flag) {
             //call setdifficulty for number range
             int randomRange = setDifficulty();
             //create winning number with randomNumber(range)
             int winningNumber = randomNumber(randomRange);
             //call user guesses method with winning number
             guessInputs(winningNumber);
+            flag = playAgain();
             //while(playAgain is true) --> keep repeating anything under do
-        } while (playAgain());
+        }
     }
 
     //playAgain if return is true (y or Y)

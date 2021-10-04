@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92774ceb-9555-458b-9fe0-56e4e2152fcf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise26/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise31/src/main/java/Solution31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise29/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise29/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise29/src/main/java/Solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise29/src/main/java/Solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

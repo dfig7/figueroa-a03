@@ -30,12 +30,13 @@ public class Solution29 {
             //if not
              catch(NumberFormatException | ArithmeticException a){
                 //catch number and arithmetic exceptions
-                 System.out.printf("Sorry. That's not a valid input.");
+                 System.out.printf("Sorry. That's not a valid input.\n");
             }
         }
     }
     //main
     public static void main(String[] args) {
+
         findYears();
     }
     //calcYears();
